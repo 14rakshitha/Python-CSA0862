@@ -49,5 +49,5 @@
 48. Split the Array and Add First Part to the End.
 49. Matrix Multiplication.
 50. Find the Perimeter of a Circle, Rectangle and Triangle.
-51.Read the character
+51. Read the character
 52. Lexicography
